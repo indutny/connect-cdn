@@ -7,6 +7,6 @@
   "main": "./lib/connect-cdn",
 
   "dependencies": {
-    "cloudfiles": ">= 0.2.7"
+    "cloudfiles": ">= 0.2.8"
   }
 }
