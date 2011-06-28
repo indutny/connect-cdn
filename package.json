@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "...",
   "author": "Fedor Indutny <fedor.indutny@gmail.com>",
+
+  "main": "./lib/connect-cdn",
+
   "dependencies": {
     "cloudfiles": ">= 0.2.7"
   }
