@@ -1,0 +1,9 @@
+{
+  "name": "connect-cdn",
+  "version": "0.1.0",
+  "description": "...",
+  "author": "Fedor Indutny <fedor.indutny@gmail.com>",
+  "dependencies": {
+    "cloudfiles": ">= 0.2.7"
+  }
+}
